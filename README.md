@@ -1,8 +1,8 @@
 ## Olá!
 <h4>
   • 💻 Estudante de Ciência da Computação na Unipê <br>
-  • Técnico em Redes de Computadores<br>
-  • Técnico em Informática
+  • 🖧 Técnico em Redes de Computadores<br>
+  • 💻 Técnico em Informática
 </h4>
  
 <div align="center">
