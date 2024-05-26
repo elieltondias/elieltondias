@@ -1,5 +1,6 @@
 ## Olá!
 <h4>
+  • QA Analyst
   • 💻 Estudante de Ciência da Computação na Unipê <br>
   • 🖧 Técnico em Redes de Computadores <br>
 </h4>
